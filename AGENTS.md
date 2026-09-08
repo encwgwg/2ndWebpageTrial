@@ -7,3 +7,4 @@ Update the contents list, article count, anchors, dates and images
 Commit only to shitangwan-site
 Keep GitHub and Render on their free tiers
 Test the site before publishing
+Make sure the whole storage, publication of this website stays in free tier of GitHub and Render.
